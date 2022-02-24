@@ -19,7 +19,7 @@
                 <a class="nav-link" href="attendance_report.php">Reportes <i class="fa fa-file-alt"></i></a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="#">Soporte y ayuda&nbsp;<i class="fa fa-hands-helping"></i></a>
+                <a class="nav-link" href="https://chat.whatsapp.com/GgN9axlIRTn4GryiPi2cHF">Soporte y ayuda&nbsp;<i class="fa fa-hands-helping"></i></a>
             </li>
         </ul>
     </div>
